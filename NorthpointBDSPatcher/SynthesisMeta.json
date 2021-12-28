@@ -1,0 +1,11 @@
+{
+  "Nickname": "Northpoint BDSPatcher",
+  "Visibility": "Visible",
+  "OneLineDescription": "Better Dynamic Snow v2.x Synthesis Patcher for Northpoint SE",
+  "LongDescription": "Not compatible with BDS v3. Patches the custom snow materials used by Northpoint SE for parallax mesh compatibility.",
+  "PreferredAutoVersioning": "Default",
+  "RequiredMods": [
+    "Better Dynamic Snow.esp",
+    "Northpoint.esp"
+  ]
+}
